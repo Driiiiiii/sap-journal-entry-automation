@@ -8,6 +8,7 @@ ________________________________________________________________________________
 
 
 🚀 Projektziele
+
 Vereinfachung manueller Arbeiten in der Buchhaltung
 Reduktion von Fehlerquellen bei Massendaten
 Aufbau eines nachvollziehbaren Python-Portfolios (Transition von VBA → moderne Automatisierung)
@@ -16,6 +17,7 @@ ________________________________________________________________________________
 
 
 ⚙️ Geplanter Funktionsumfang
+
 Input: Einlesen von Excel/CSV-Dateien mit Rohdaten
 Transformation:
 Mapping von Feldern (z. B. Kostenstelle → Sachkonto)
@@ -29,6 +31,7 @@ ________________________________________________________________________________
 
 
 📂 Projektstruktur (geplant)
+
 sap-journal-entry-automation/
 │
 ├── notebooks/         # Jupyter/Colab Notebooks für Entwicklung & Tests
@@ -41,6 +44,7 @@ ________________________________________________________________________________
 
 
 🔧 Technologien
+
 Python 3
 pandas (Datenbearbeitung)
 openpyxl (Excel-Handling)
@@ -50,6 +54,7 @@ ________________________________________________________________________________
 
 
 📅 Roadmap (2 Monate)
+
 Woche 1–2: Python-Basics & pandas kennenlernen
 Woche 3–4: Input einlesen & Transformationen implementieren
 Woche 5: Output im SAP-Uploadformat erzeugen
